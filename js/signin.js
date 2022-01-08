@@ -1,3 +1,4 @@
+
 // step 1
 const ipnElement = document.querySelector('#txtPass')
 const btnElement = document.querySelector('#btn-pass')
@@ -12,4 +13,3 @@ btnElement.addEventListener('click', function() {
     currentType === 'password' ? 'text' : 'password'
   )
 })
-
