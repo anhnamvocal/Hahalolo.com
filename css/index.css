@@ -1,23 +1,22 @@
 body{
     background-color: whitesmoke !important;
+    overflow-x:hidden !important;
 
 }
 .left-site{
     background-color: whitesmoke;
     padding: 0px;
-    overflow-x:hidden;
-
+    overflow: auto;
 }
 
 .middle-site{
     padding: 0px;
-
+    background-color: whitesmoke;
 }
 
 .right-site{
-    background-color: rgb(221, 152, 152);
     padding: 0px;
-    overflow-x:hidden;
+    overflow-x:hidden !important;
 
 }
 
@@ -27,8 +26,8 @@ body{
     background-color: whitesmoke ;
     padding: 0px;
     border: 0px;
-    overflow:auto;  
-    height: 550px;
+    overflow:auto !important;  
+    height: 570px;
 }
 .right-site-inside{
     margin: 15px 65px 35px 5px;
@@ -36,11 +35,13 @@ body{
     padding: 0px;
     border: 0px;
     overflow:auto;  
-    height: 550px;
+    height: 570px;
+    overflow-x:hidden
 }
 .middle-site-inside{
     margin: 15px 10px 35px 10px;
-    background-color: whitesmoke ;
+    background-color: white ;
+    border-radius: 10px 10px 10px 10px;
 
 }
 
@@ -112,7 +113,7 @@ body{
 }
 
 .weather{
-    height: 400px;
+    height: 300px !important;
     width: 100%;
     background-color: white;
     border-radius: 10px 10px 10px 10px;
@@ -181,7 +182,7 @@ body{
 }
 
 .ex-right{
-    height: 400px;
+    height: 350px;
     width: 100%;
     background-color: white;
     border-radius: 10px 10px 10px 10px;
@@ -198,7 +199,7 @@ body{
 }
 .img-sexy-girl{
     height: 180px;
-    padding: 0px 10px 0px 10px;
+    padding: 0px 10px 0px 10px !important;
 }
 
 .img-sexy-girl-inside{
@@ -206,10 +207,138 @@ body{
     height: 100%;
 }
 
+.text-img{
+    color: #fff;
+    z-index: 2;
+    font-weight: 500;
+    text-shadow: 0px 1px 2px rgb(0 0 0 / 54%);
+    font-size: 1em;
+    padding-top: 80px;
+    padding-left: 15px;
+    font-weight: 500;
+    text-shadow: 0px 1px 2px rgb(0 0 0 / 54%);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.3) 0, rgba(0, 0, 0, 0.25) 50%, rgba(0, 0, 0, 0.1) 75%, rgba(0, 0, 0, 0) 100%);
+}
 .voucher-hhll-link{
     float: right;
 }
 
 .voucher-hhll-img{
     float: left;
+}
+
+.box-logo{
+    height: 145px;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+    background-color: white;
+}
+
+.img-logo{
+    width: 40%;
+    height: auto;
+    margin: 10px 10px 10px 10px;
+}
+.footer-right{
+    background-color: white;
+    height: 180px;
+    width: 100%;
+    display: inline-block;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.footer-right-inside{
+    margin: 10px 10px 10px 0px ;
+    background-color: white;
+    height: 100%;
+    width: auto;
+}
+
+.element-footer1{
+    height: 35px;
+    display: inline-block;
+    font-size: 1em;
+    padding: 15px;
+    width:max-content;
+    
+}
+
+
+.footer-right-inside a{
+    text-decoration: none;
+    margin-left: 8px;
+        color: rgba(0, 0, 0, 0.54);
+
+}
+
+.footer-right-inside p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.middle-site-inside-top{
+    height: 177px;
+    background-color: thistle;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.middle-site-inside-top-blue{
+    height: 40px;
+    background-color: #24a8d8;
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+.create-news{
+    height:35px;
+    width: 130px;
+    background-color: #fff;
+    display:inline-block;
+    font-size :0;
+    margin: 5px 0px 0px 5px;
+    border-radius: 5px 5px 0px 0px;
+
+}
+
+.create-news-inside{
+    font-weight: 700;
+    height:35px;
+    width: 130px;
+    border: unset;
+    font-size: 0.875rem;
+    border-radius: 5px 5px 0px 0px;
+    background-color: white ;
+
+}
+
+.share-ex{
+    height:35px;
+    width: 170px;
+    background-color: #fff;
+    display:inline-block;
+    font-size :0;
+    margin: 5px 0px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.share-ex-inside{
+    font-weight: 700;
+    height:35px;
+    width: 170px;
+    border: unset;
+    font-size: 0.875rem;
+    border-radius: 5px 5px 0px 0px;      background-color: white ;
+
+}
+
+.middle-site-inside-content{
+    height: 70px;
+    background-color: white ;
+}
+
+.avt-user{
+    height: 50px;
+    width: 50px;
 }
