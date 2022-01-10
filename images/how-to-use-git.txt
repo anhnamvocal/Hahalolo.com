@@ -1,0 +1,25 @@
+b1 : git init
+b2 : git add . git status sau khi sửa để check 
+b3 : git commit -m "..."
+b4 : git remote add origin http...
+b5 : git push
+
+nên lưu tại 1 thư mục
+
+git status sau khi sửa để check 
+
+add. -  commit  - push dùng cho các lần sau
+
+git clone http... : clone project
+git pull  : cập nhật từ nhánh master về máy
+git checkout -b nam : đổi sang nhánh nam
+
+
+các bước cho thành viên:
+clone về 1 folder 
+coding
+add vào nhánh mới tạo
+tạo pull request để host merge
+xóa nhánh by host
+
+update 0 có j sẽ bị lỗi

@@ -213,3 +213,14 @@ body{
 .voucher-hhll-img{
     float: left;
 }
+#container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+#container nav ul li{
+    list-style: none;
+    float: left;
+    padding: 1px 2px;
+}

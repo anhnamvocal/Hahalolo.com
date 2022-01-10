@@ -43,8 +43,8 @@
 
                     <form class="form-inline" action="process-login.php" method="post">
 
-                        <input name="txtEmail" type="text" class="form-control mb-2 mr-sm-2 mt-5" id="txtEmail"
-                            placeholder="Email hoăc số điện thoại*">
+                        <input name="SUTen" type="text" placeholder="Tên*">
+                        <input name="SUHo" type="text" placeholder="Họ*">
                         <div class="input-group mb-2 mr-sm-2">
                             <input name="txtPass" type="password" class="form-control mt-3" id="txtPass" placeholder="Mật khẩu*">
                             <button type="button" id="btn-pass" class="btn-pass mt-3">
