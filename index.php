@@ -112,14 +112,31 @@
                                     </div>
                                 </div>
                             </div>
-                            <a class="text-weather-last text-weather text-muted" href="https://openweathermap.org/">Cập nhật lúc 08:44 PM. OpenWeather</a>
+                            <a class="text-weather-last text-weather text-muted" style="text-decoration: none" href="https://openweathermap.org/">Cập nhật lúc 08:44 PM. OpenWeather</a>
                             
                         </div>
                     </div>
                 </div>
                 <div class="middle-site col-md-6">
                     <div class="middle-site-inside">
-                        v0LyOwvv0LyOwvv0LyOwvv0Ly
+                        <div class="middle-site-inside-top">
+                            <div class="middle-site-inside-top-blue">
+                                <div class="create-news">
+                                    <button class="create-news-inside"> 
+                                        <span>Tạo bài viết</span>
+                                    </button>
+                                </div><div class="share-ex">
+                                    <button class="share-ex-inside"> 
+                                        <span>Chia sẻ trải nghiệm</span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="middle-site-inside-content">
+                                <div class="row">
+                                    <i class="bi bi-person-circle"></i><span>Haha, hôm nay bạn thế nào?</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="right-site col-md-3">
@@ -138,17 +155,58 @@
                                 <hr>
                             </div>
                             <div class="img-sexy-girl">
-                                <img class="img-sexy-girl-inside" src="images/sexy-girl.jpg" alt="">
+                                <div class="img-sexy-girl-inside" style="background-image:url('images/sexy-girl.jpg');filter:brightness(90%) ">
+                                    <h3 class="text-img">Top resort Phú Quốc sang – xịn – giá cực mịn cho chuyến du lịch đầu năm</h3>
+                                </div>
                             </div>
                             <div class="voucher-hhll">
                                 <div class="voucher-hhll-img mt-3">
                                     <img src="images/hhll-voucher.jpg" alt="">
                                 </div>
-                               <a style="color:black;text-decoration: none;font-size: 1.25rem;" href="https://www.hahalolo.com/experience">SĂN VOUCHER CÙNG HAHALOLO</a>
+                                <div>
+                                    <a style="color:black;text-decoration: none;font-size: 1.25rem;" href="https://www.hahalolo.com/experience">SĂN VOUCHER CÙNG HAHALOLO</a>
+                                    <div>
+                                        <span style="padding-left:40px" class="text-muted">8 ngày trc</span>
+                                    </div>
+                                </div>
                             </div>
-
-                            
                         </div>
+                        <div class="Mty">
+                        </div>
+                        <div class="box-logo">
+                            <a href="">
+                                <img class="img-logo" src="images/bo-cong-thuong.png" alt="">
+                            </a>
+                            <a href="">
+                                <img class="img-logo" src="images/tb-bct.png" alt="">
+                            </a>
+                            <a href="">
+                                <img class="img-logo" src="images/ustoa.png" alt="">
+                            </a>
+                        </div>
+                        <div class="Mty">
+                        </div>
+                        <footer>
+                            <div class="footer-right">
+                                <div class="footer-right-inside">
+                                    <div class="element-footer1">
+                                        <a href="">Giới thiệu</a>
+                                        <a href="">Quyền riêng tư</a>
+                                    </div>
+                                    <div class="element-footer1">
+                                        <a href="">Điều khoản</a>
+                                        <a href="">Cookie</a>
+                                        <a href="">Tuyển dụng</a>
+                                    </div>
+                                    <div class="element-footer1">
+                                        <a href="">Hỗ trợ</a>
+                                        <a href="">Tiếp thị liên kết</a>
+                                    </div>
+                                    <p style="font-size:0.8em;padding: top 10px;" class=" text-muted">© Hahalolo 2017. Đã đăng ký bản quyền</p>
+                                </div>
+                                
+                            </div>
+                        </footer>
                     </div>
                     
                 </div>
