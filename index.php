@@ -60,7 +60,7 @@
                         <div class="weather">
                             <div class="weather-inside">
                                 <h5 class="where">Thach That, VN</h5>
-                                <p>CN, 09/01/2022</p>
+                                <p>CN, 10/01/2022</p>
                                 <div class="brief">
                                     <div class="box-images">
                                             <img class="box-images-inside" src="images/cloud.png" alt="">
@@ -113,7 +113,7 @@
                                 </div>
                             </div>
                             <a class="text-weather-last text-weather text-muted" href="https://openweathermap.org/">Cập nhật lúc 08:44 PM. OpenWeather</a>
-
+                            
                         </div>
                     </div>
                 </div>
@@ -124,8 +124,33 @@
                 </div>
                 <div class="right-site col-md-3">
                     <div class="right-site-inside">
-                        v0LyOwvv0LyOwvv0LyOwvv0Ly
+                        <div class="img img-affilate">
+                            <img class="img-inside" src="images/affiliate-hhll.jpg" alt="">
+                        </div>
+                        <div class="Mty">
+                        </div>
+                        <div class="ex-right">
+                            <div class="ex-right-inside">
+                                <div class="ex-right-inside-top ">
+                                        <span style="float:left">Trải nghiệm nổi bật</span>
+                                        <a style="text-decoration: none;float:right" href="https://www.hahalolo.com/experience">Xem tất cả</a>    
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="img-sexy-girl">
+                                <img class="img-sexy-girl-inside" src="images/sexy-girl.jpg" alt="">
+                            </div>
+                            <div class="voucher-hhll">
+                                <div class="voucher-hhll-img mt-3">
+                                    <img src="images/hhll-voucher.jpg" alt="">
+                                </div>
+                               <a style="color:black;text-decoration: none;font-size: 1.25rem;" href="https://www.hahalolo.com/experience">SĂN VOUCHER CÙNG HAHALOLO</a>
+                            </div>
+
+                            
+                        </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
