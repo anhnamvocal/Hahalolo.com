@@ -46,6 +46,7 @@
                         <input name="SUTen" type="text" placeholder="Tên*">
                         <input name="SUHo" type="text" placeholder="Họ*">
                         <div class="input-group mb-2 mr-sm-2">
+                            
                             <input name="txtPass" type="password" class="form-control mt-3" id="txtPass" placeholder="Mật khẩu*">
                             <button type="button" id="btn-pass" class="btn-pass mt-3">
                                 <div type="button" id="btnPassword" class="input-group-prepend icon">
