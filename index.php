@@ -9,7 +9,6 @@
         require "template/header.php";
     ?>
 
-<<<<<<< HEAD
     <main>
         <div class="container-fuild">
             <div class="row">
@@ -70,7 +69,6 @@
                                         <span>14</span><span type="button">°C</span>|<span type="button">°F</span>
                                         <p>Mây đen u ám</p>
                                     </div>
-=======
 <main>
     <div class="container-fuild">
         <div class="row">
@@ -81,7 +79,6 @@
                             <button onclick="location.href='Mada.php'" type="button" class="myInfor-btn mt-3 px-3">
                                 <div class="icon-person">
                                     <i class="bi bi-person-circle text-muted"></i>
->>>>>>> 6bad9823ff6cc0deb068b33eae6a0585da687df2
                                 </div>
                                 <div class="LeNam">
                                     <h5 class="Ten">Le Nam</h5>
@@ -89,7 +86,6 @@
                                 </div>
                             </button>
                         </div>
-<<<<<<< HEAD
                     </div>
                 </div>
                 <div class="middle-site col-md-6">
@@ -131,7 +127,6 @@
                                 </div>
                                <a style="color:black;text-decoration: none;font-size: 1.25rem;" href="https://www.hahalolo.com/experience">SĂN VOUCHER CÙNG HAHALOLO</a>
                             </div>
-=======
                         <button class="btn-detail">
                             <i class="bi bi-currency-dollar icon-detail"></i><span class="text-detail-coin">0 Xu</span>
                         </button>
