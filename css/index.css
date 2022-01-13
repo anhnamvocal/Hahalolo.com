@@ -11,7 +11,25 @@ header{
 }
 .left-site{
     background-color: whitesmoke;
+<<<<<<< HEAD
     padding: 0px;
+=======
+    padding-top: 80px;
+    overflow-x:hidden;
+
+}
+
+.middle-site{
+    padding-top: 80px;
+
+}
+
+.right-site{
+    background-color: rgb(221, 152, 152);
+    padding-top: 80px;
+    overflow-x:hidden;;
+    padding-right: 0px;
+>>>>>>> aea8e9bf8947a16584949aba7c2b270947d19973
     overflow: auto;
     display: inline-block;
     
@@ -28,9 +46,13 @@ header{
 .right-site{
     padding: 0px;
     overflow-x:hidden !important;
+<<<<<<< HEAD
     float: right;
     display: inline-block;
     background-color: whitesmoke;
+=======
+
+>>>>>>> aea8e9bf8947a16584949aba7c2b270947d19973
 }
 
 
@@ -701,3 +723,7 @@ textarea {
     width: inherit;
     background-color: white;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> aea8e9bf8947a16584949aba7c2b270947d19973
