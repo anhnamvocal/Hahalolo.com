@@ -8,10 +8,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
   
 </head>
@@ -52,32 +48,10 @@
                         }
                     ?>
                     
-<<<<<<< HEAD
-=======
-=======
-    <script src="http://code.jquery.com/jquery-1.5.js"></script>
-  
-</head>
-<body>
-    <!-- <header>
-        <div id="container">
-            <a href="#"><img src="img\Capture.PNG" alt="icon"></a>
-            <input type="text" placeholder="Tìm kiếm..."/>
-            <nav>
-                <ul class="ctn-center">
-                    <li><a href="#"><img src="img\2983803.png" alt="news"></a></li>
-                    <li><a href="#"><img src="img\3942054.png" alt="trai nghiem"></a></li>
-                    <li><a href="#"><img src="img\3405685.png" alt="locations"></a></li>
-                    <li><a href="#"><img src="img\2086058.png" alt="hotels"></a></li>
-                    <li><a href="#"><img src="img\1085493.png" alt="may bay"></a></li>
-                    <li><a href="#"><img src="img\2330438.png" alt="thue xe"></a></li>
-                    <li><a href="#"><img src="img\1656850.png" alt="mua sam"></a></li>
->>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
                 </ul>
                 
                 </div>
             </div>
             </nav>
         </div>
-    </header> -->
+    </header>
