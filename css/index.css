@@ -14,33 +14,7 @@ header{
 
 .left-site{
     background-color: whitesmoke;
-<<<<<<< HEAD
     padding: 0px;
-=======
-<<<<<<< HEAD
-    padding: 0px;
-=======
-<<<<<<< HEAD
-    padding: 0px;
-=======
-    padding-top: 80px;
-    overflow-x:hidden;
-
-}
-
-.middle-site{
-    padding-top: 80px;
-
-}
-
-.right-site{
-    background-color: rgb(221, 152, 152);
-    padding-top: 80px;
-    overflow-x:hidden;;
-    padding-right: 0px;
->>>>>>> aea8e9bf8947a16584949aba7c2b270947d19973
->>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
     overflow: auto;
     display: inline-block;
     
@@ -57,25 +31,9 @@ header{
 .right-site{
     padding: 0px;
     overflow-x:hidden !important;
-<<<<<<< HEAD
     float: right;
     display: inline-block;
     background-color: whitesmoke;
-=======
-<<<<<<< HEAD
-    float: right;
-    display: inline-block;
-    background-color: whitesmoke;
-=======
-<<<<<<< HEAD
-    float: right;
-    display: inline-block;
-    background-color: whitesmoke;
-=======
-
->>>>>>> aea8e9bf8947a16584949aba7c2b270947d19973
->>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
 }
 
 
@@ -463,16 +421,8 @@ div.para{
     height:100%;
     margin-top: 20px;
     padding: 0;
-<<<<<<< HEAD
     display: inline-block;
 
-=======
-<<<<<<< HEAD
-    display: inline-block;
-
-=======
->>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
 }   
 
 .action-user{
@@ -571,15 +521,7 @@ div.para{
     display: inline-block;
     font-size:2.25em;
 }
-<<<<<<< HEAD
 .upload-box-news-body-inside-ele-right{
-=======
-<<<<<<< HEAD
-.upload-box-news-body-inside-ele-right{
-=======
-.upload-box-news-body-inside-right{
->>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
     display: inline-block;
     margin-bottom: 10px;
 }
@@ -592,17 +534,8 @@ div.para{
 
 .upload-box-news-body-inside-caption{
     width: max-content;
-<<<<<<< HEAD
     min-width: 100%;
     min-height: 20px;
-=======
-<<<<<<< HEAD
-    min-width: 100%;
-    min-height: 20px;
-=======
-    min-width: 400px;
->>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
     word-wrap:break-word;
     height: auto;
 }
@@ -802,10 +735,6 @@ textarea {
     width: inherit;
     background-color: white;
 }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
 .upload-box-news-body-inside-right-user h4{
 
 }
@@ -920,14 +849,4 @@ input[type="file"] {
 }
 .middle-site-inside-body-margin-interative-view-cmt-person{
     height: 35px;
-<<<<<<< HEAD
 }
-=======
-}
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> aea8e9bf8947a16584949aba7c2b270947d19973
->>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
->>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
