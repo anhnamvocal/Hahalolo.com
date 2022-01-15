@@ -10,6 +10,7 @@
     ?>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -78,6 +79,8 @@
 >>>>>>> aea8e9bf8947a16584949aba7c2b270947d19973
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
 <main>
     <div class="container-fuild class-include">
         <div id="id-index-view" class="row index-view">
@@ -103,8 +106,8 @@
                                 </div>
                             </button>
                         </div>
-<<<<<<< HEAD
 
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 
@@ -156,6 +159,8 @@
 >>>>>>> aea8e9bf8947a16584949aba7c2b270947d19973
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
                         <button class="btn-detail">
                             <i class="bi bi-currency-dollar icon-detail"></i><span class="text-detail-coin">0 Xu</span>
                         </button>
@@ -251,9 +256,12 @@
             <div class="middle-site col-md-6">
                 <div class="middle-site-inside">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
                     <div class="middle-site-inside-bg">
                         <div class="middle-site-inside-top">
                             <div class="middle-site-inside-top-blue tab">
@@ -643,6 +651,7 @@
                                                     <i class="bi bi-person-circle text-muted"></i><span> Le Nam</span>
                                                 </div>
                                             </div>
+<<<<<<< HEAD
 =======
                     <div class="middle-site-inside-top">
                         <div class="middle-site-inside-top-blue tab">
@@ -668,28 +677,18 @@
                                             <p>Haha, hôm nay bạn thế nào?</p>
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
                                         </div>
                                     </div>
-                                </button>
-                                <hr style ="margin:0px">
-                                <div class="action-user">
-                                    <button class="action-user-inside">
-                                        <i class="bi bi-image icon-detail" style="color:blue"></i><span> Ảnh/video</span>
-                                    </button>
-                                    <button class="action-user-inside">
-                                        <i class="bi bi-geo-alt" style="color:pink"></i><span> Địa điểm</span>
-                                    </button>
-                                    <button class="action-user-inside">
-                                        <i class="bi bi-emoji-smile" style="color:orange"></i><span> Cảm xúc</span>
-                                    </button>
                                 </div>
                                 <div class="Mty">
                                 </div>
                                 <div class="Mty">
                                 </div>
                             </div>
-<<<<<<< HEAD
                             
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
                             
@@ -708,6 +707,8 @@
                             </div>
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
                         </div>
                     </div>
                 </div>
@@ -794,9 +795,9 @@
         </div>
         
     </div>
-<<<<<<< HEAD
     <div class="upload-box" >
         <form action="process-add-post.php" id="uploadForm"  method="post" enctype="multipart/form-data">
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
     <div class="upload-box" >
@@ -805,6 +806,8 @@
     <div class="upload-box">
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
             <div id="news" class="upload-box-news  cl-news">
                 <div class="upload-box-news-top">
                     <div class="upload-box-news-top-label col-md-10">
@@ -819,9 +822,12 @@
                 <div class="upload-box-news-body">
                     <div class="upload-box-news-body-inside">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
                         <div>
                             <div class="upload-box-news-body-inside-right">
                                 <div class="avt-user ">
@@ -859,6 +865,7 @@
                             </div>  
                             <div class="upload-box-news-body-inside-add-bg-emo">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
                         <div class="upload-box-news-body-inside-left">
@@ -878,15 +885,20 @@
                         <div class="upload-box-news-body-inside-add-bg-emo mt-5">
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
                             <button style="border: none;outline:none;color:orange " class="btn-bg">
                                 <i class="bi bi-palette"></i>
                             </button>
                             <button style="border: none;outline:none;color:orange" class="btn-emotion">
                                 <i class="bi bi-emoji-smile"></i>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
                             </button>   
                             </div>
                             <div class="upload-box-news-body-inside-add-info">
@@ -910,6 +922,7 @@
                         
                         <div class="upload-box-news-body-inside-btn-share">
                             <button type="submit" name="btnSubmit" id="btnSubmit" class="upload-box-news-body-inside-btn-share-inside">
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -936,15 +949,17 @@
                             <button class="upload-box-news-body-inside-btn-share-inside">
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
                                 <span>Chia sẻ</span>
                             </button>
                         </div>
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
         </form>
         <form action="process-add-post-ex.php">
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
         </form>
@@ -953,6 +968,8 @@
 
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
             <div id="ex" class="upload-box-ex  cl-ex">
                 <div class="upload-box-ex-top">
                     <div class="upload-box-ex-top-label col-md-10">
@@ -1021,9 +1038,9 @@
                         </div>
                 </div>
             </div>
-<<<<<<< HEAD
         </form>
             
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
         </form>
@@ -1031,6 +1048,8 @@
 =======
 >>>>>>> 72a96e9e0bd57c48d0a88f2e583c50e02eff4d4f
 >>>>>>> 9a9078e77d7f8099e1625b4df62138308145acd1
+=======
+>>>>>>> 2c4c05e3b18a72c2c918c0f5e60cf1f3376c03e5
         </div>
 </main>
 
